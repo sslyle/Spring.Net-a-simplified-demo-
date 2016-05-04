@@ -1,0 +1,9 @@
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\ObjB\bin\Debug\SpringObjs.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\ObjB\bin\Debug\SpringObjs.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\ObjB\obj\Debug\SpringObjs.csprojResolveAssemblyReference.cache
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\ObjB\obj\Debug\SpringObjs.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\ObjB\obj\Debug\SpringObjs.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\SpringObjs\bin\Debug\SpringObjs.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\SpringObjs\bin\Debug\SpringObjs.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\SpringObjs\obj\Debug\SpringObjs.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\SpringObjs\obj\Debug\SpringObjs.pdb

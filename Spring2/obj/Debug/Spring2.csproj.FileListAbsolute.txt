@@ -1,0 +1,17 @@
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring2.exe.config
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring2.exe
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring2.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.Core.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring.Core.dll
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.xml
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.Core.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Common.Logging.Core.xml
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring.Core.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\Spring.Core.xml
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\SpringObjs.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\obj\Debug\Spring2.csprojResolveAssemblyReference.cache
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\obj\Debug\Spring2.exe
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\obj\Debug\Spring2.pdb
+C:\Users\slyle\Documents\Visual Studio 2015\Projects\Spring1\Spring2\bin\Debug\SpringObjs.dll
